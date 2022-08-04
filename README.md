@@ -8,4 +8,7 @@
   <a href="https://www.linkedin.com/in/ilqar-sofiyev-a67575172/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />  
   </a>
+  <a href="https://www.facebook.com/ilqar.sofiyev.7"> 
+    <img src="https://img.shields.io/badge/Facebook-DarkBlue?logo=facebook&logoColor=white&style=for-the-badge" />  
+  </a>
 </div>
