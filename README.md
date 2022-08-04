@@ -16,7 +16,7 @@
 </div>
 -------------------------------------------------------------------------------------
 <div align="center"> 
-  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="300" height="230"/>    
+  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="50%" height="50%"/>    
 </div>
   <div>
     I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
