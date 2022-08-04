@@ -14,14 +14,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
----------------------------------------------------------------------------
+-----------------------------------------------------------------------
 <div align="center"> 
   <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="50%" height="50%"/>    
 </div>
   <div>
     I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
   </div>
----------------------------------------------------------------------------
+-----------------------------------------------------------------------
   <div> 
     :hammer_and_wrench: Languages and Tools :
   </div>&nbsp;
